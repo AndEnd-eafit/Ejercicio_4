@@ -1,1 +1,1 @@
-# Ejercicio_4
+# Reconocimiento optico de caracteres
