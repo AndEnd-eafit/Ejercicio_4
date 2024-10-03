@@ -37,7 +37,7 @@ st.markdown("""
 st.markdown('<h1 class="title">Reconocimiento Óptico de Caracteres</h1>', unsafe_allow_html=True)
 
 # Espacio para la imagen (PNG)
-image = Image.open('OIG7.jpg')
+image = Image.open('Reconocimiento optico de caracteres - Yoru.png')
 st.image(image, width=300, use_column_width='auto', caption="Imagen del Reconocimiento Óptico de Caracteres")
 
 # Variables
